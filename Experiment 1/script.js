@@ -34,7 +34,6 @@ function generateStacks(stackAmount){
         let randomY = random(0, 500);
         let randomColor = random(0, 255);
         stackOfCircle(randomX, randomY, randomColor);
-
  }
 
 }
